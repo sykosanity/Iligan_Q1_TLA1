@@ -1,0 +1,28 @@
+
+body {
+    background-image: url("./assets/images/bgimage.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+/* div.slide-left {
+    color: #ffffff;
+    font-size: 5vh;
+    width:90%;
+    overflow:hidden;
+}
+div.slide-left p {
+    animation: slide-left 2s;
+}
+@keyframes slide-left {
+    from {
+        margin-left: 90%;
+        width: 290%; 
+    }
+
+    to {
+        margin-left: 10%;
+        width: 90%;
+    }
+} */
